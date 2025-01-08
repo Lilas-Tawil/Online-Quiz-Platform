@@ -1,1 +1,1 @@
-# Online-Quiz-Platform
+# CodeAlpha-Online-Quiz-Platform
